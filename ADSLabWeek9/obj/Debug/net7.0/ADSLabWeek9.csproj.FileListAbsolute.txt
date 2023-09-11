@@ -1,0 +1,15 @@
+/Users/zairulmazwan/Dotnet/ADSLabWeek9/ADSLabWeek9/obj/Debug/net7.0/ADSLabWeek9.csproj.AssemblyReference.cache
+/Users/zairulmazwan/Dotnet/ADSLabWeek9/ADSLabWeek9/obj/Debug/net7.0/ADSLabWeek9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zairulmazwan/Dotnet/ADSLabWeek9/ADSLabWeek9/obj/Debug/net7.0/ADSLabWeek9.AssemblyInfoInputs.cache
+/Users/zairulmazwan/Dotnet/ADSLabWeek9/ADSLabWeek9/obj/Debug/net7.0/ADSLabWeek9.AssemblyInfo.cs
+/Users/zairulmazwan/Dotnet/ADSLabWeek9/ADSLabWeek9/obj/Debug/net7.0/ADSLabWeek9.csproj.CoreCompileInputs.cache
+/Users/zairulmazwan/Dotnet/ADSLabWeek9/ADSLabWeek9/bin/Debug/net7.0/ADSLabWeek9
+/Users/zairulmazwan/Dotnet/ADSLabWeek9/ADSLabWeek9/bin/Debug/net7.0/ADSLabWeek9.deps.json
+/Users/zairulmazwan/Dotnet/ADSLabWeek9/ADSLabWeek9/bin/Debug/net7.0/ADSLabWeek9.runtimeconfig.json
+/Users/zairulmazwan/Dotnet/ADSLabWeek9/ADSLabWeek9/bin/Debug/net7.0/ADSLabWeek9.dll
+/Users/zairulmazwan/Dotnet/ADSLabWeek9/ADSLabWeek9/bin/Debug/net7.0/ADSLabWeek9.pdb
+/Users/zairulmazwan/Dotnet/ADSLabWeek9/ADSLabWeek9/obj/Debug/net7.0/ADSLabWeek9.dll
+/Users/zairulmazwan/Dotnet/ADSLabWeek9/ADSLabWeek9/obj/Debug/net7.0/refint/ADSLabWeek9.dll
+/Users/zairulmazwan/Dotnet/ADSLabWeek9/ADSLabWeek9/obj/Debug/net7.0/ADSLabWeek9.pdb
+/Users/zairulmazwan/Dotnet/ADSLabWeek9/ADSLabWeek9/obj/Debug/net7.0/ADSLabWeek9.genruntimeconfig.cache
+/Users/zairulmazwan/Dotnet/ADSLabWeek9/ADSLabWeek9/obj/Debug/net7.0/ref/ADSLabWeek9.dll
