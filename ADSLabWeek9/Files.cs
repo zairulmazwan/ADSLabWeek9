@@ -31,7 +31,7 @@ public class Files
 				var ln = sr.ReadLine();
 				var value = ln.Split(",");
 
-				if (i>0) //Avoid reading the first row
+				if (i>0) //Avoid reading the first row because the dataset has a header
 				{
 					for (int j=1; j<value.Length; j++) //j starts from 1 to avoid reading the city
 					{
