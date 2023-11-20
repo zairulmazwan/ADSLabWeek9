@@ -33,6 +33,8 @@ Console.WriteLine();
 
 /*Task 2
 ==========
+Your program should be able to run the following lines of codes. Create a C# file namely Task2.cs.
+Based on Graphs.cs, copy the code to Task2.cs and modify the code for the City problem.
 */
 
 // int [,] data = Files.readData(@"/Users/zairulmazwan/Dotnet/ADSLabWeek9_Sol/ADSLabWeek9_Sol/Dataset.csv");
@@ -43,3 +45,6 @@ Console.WriteLine();
 // Console.WriteLine("You can travel from KL to the following cities: ");
 // City KL = cities.getNode("Kuala Lumpur");
 // cities.printEdges(KL);
+
+
+//©ZairulMazwan©
