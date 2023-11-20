@@ -29,3 +29,17 @@ visited = graph.traverseDFSAlgo2(60,visited);
 
 graph.printNodes();
 Console.WriteLine();
+
+
+/*Task 2
+==========
+*/
+
+// int [,] data = Files.readData(@"/Users/zairulmazwan/Dotnet/ADSLabWeek9_Sol/ADSLabWeek9_Sol/Dataset.csv");
+// Files.printData(data);
+// Task2 cities = new Task2();
+// cities.createGraph();
+// Console.WriteLine("Is there Kuala Lumpur in the graph? "+cities.containNode("Kuala Lumpur"));
+// Console.WriteLine("You can travel from KL to the following cities: ");
+// City KL = cities.getNode("Kuala Lumpur");
+// cities.printEdges(KL);
